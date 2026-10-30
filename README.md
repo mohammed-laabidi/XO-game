@@ -4,7 +4,7 @@ A classic Tic-Tac-Toe (XO) game built with HTML, CSS and JavaScript. Two players
 
 ## Live Demo
 
-Play it online: https://elamed2007.github.io/XO-game/
+Play it online: https://mohammed-laabidi.github.io/XO-game/
 
 ## Features
 
